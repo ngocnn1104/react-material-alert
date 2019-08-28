@@ -7,6 +7,8 @@
 
 ## Demo
 
+[https://ngocnn1104.github.io/react-material-alert/](https://ngocnn1104.github.io/react-material-alert/)
+
 ## Install
 
 ```bash
