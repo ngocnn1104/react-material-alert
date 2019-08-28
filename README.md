@@ -2,13 +2,15 @@
 
 > A ReactJS alert component built on Material UI
 
-[![NPM](https://img.shields.io/npm/v/react-material-alert.svg)](https://www.npmjs.com/package/react-material-alert) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@ngocnn/react-material-alert.svg)](https://www.npmjs.com/package/@ngocnn/react-material-alert) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [Material-UI](https://material-ui.com/)
+
+## Demo
 
 ## Install
 
 ```bash
-npm install --save react-material-alert
+npm install --save @ngocnn/react-material-alert
 ```
 
 ## Usage
@@ -16,7 +18,7 @@ npm install --save react-material-alert
 ```jsx
 import React, { Component } from 'react'
 
-import MaterialAlert from 'react-material-alert'
+import MaterialAlert from '@ngocnn/react-material-alert'
 
 class Example extends Component {
   render () {

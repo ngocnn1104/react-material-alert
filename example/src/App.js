@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import MaterialAlert from 'react-material-alert';
+import MaterialAlert from '@ngocnn/react-material-alert';
 
 export default class App extends Component {
   render() {
